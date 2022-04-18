@@ -1,0 +1,38 @@
+#style {
+    background: url(../Images/dna-4068826_1920.jpg);
+}
+
+#quote-box {
+    background: rgba(0, 0, 0, 0.425);
+    color: white;
+    height: 50vh;
+    margin-top: 25vh;
+}
+
+#text-box {
+    position: fixed;
+    top: 30vh;
+    max-width: inherit;
+    padding-right: 1.5vw;
+    padding-left: 0px;
+}
+
+#auth-box {
+    max-width: inherit;
+    padding-left: 0px;
+    position: fixed;
+    top: 50vh;
+    left: 11vw;
+}
+
+#button-box {
+    max-width: inherit;
+    padding-left: 0px;
+    position: fixed;
+    bottom: 35vh;
+}
+
+#twitter {
+    width: 2vw;
+    height: auto;
+}
